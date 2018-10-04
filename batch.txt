@@ -1,0 +1,8 @@
+ls
+mkdir testingfolder
+ls
+cd testingfolder
+mkdir inside
+cd ..
+exit
+
